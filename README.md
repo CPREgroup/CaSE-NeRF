@@ -9,3 +9,6 @@ Run the following command, make sure the path is correct. You also need to chang
 `python -m train --gin_file=configs/llff.gin --logtostderr`  
 
 You can also train your own dataset, as long as it confroms to NeRF data format.  
+
+# Data
+You can download the datasets from the following link：(https://drive.google.com/drive/folders/128yBriW1IG_3NJ5Rp7APSTZsJqdJdfc1). 
