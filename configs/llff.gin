@@ -1,0 +1,18 @@
+Config.dataset_loader = 'llff'
+Config.data_dir = 'data/dolls/mix31'
+Config.train_dir = 'experiments/test/dolls_all_one31_test'
+Config.white_bkgd = False
+Config.randomized = True
+Config.near = 0.
+Config.far = 1.
+Config.factor = 8
+Config.llffhold = 8
+Config.batch_size = 2048
+Config.save_every = 10000
+Config.render_temp = 5200.
+Config.render_exp = 0
+MipNerfModel.use_viewdirs = True
+MipNerfModel.ray_shape = 'cone'
+MipNerfModel.density_noise = 1.
+MLP.net_width = 256
+
