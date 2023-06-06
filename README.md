@@ -2,7 +2,7 @@
 
 Perform controlled editing of camera settings in the scene
 
-https://github.com/CPREgroup/CaSE-NeRF/blob/main/gif/gif.mp4
+https://github.com/CPREgroup/CaSE-NeRF/assets/65144944/32947de3-1d79-4082-94bb-6ee1a41fdf18
 
 
 # Training
@@ -16,6 +16,6 @@ You can also train your own dataset, as long as it confroms to NeRF data format.
 Video:
 <br>
 
-https://github.com/CPREgroup/CaSE-NeRF/blob/main/gif/gif.mp4
+https://github.com/CPREgroup/CaSE-NeRF/assets/65144944/32947de3-1d79-4082-94bb-6ee1a41fdf18
 
 <br>
