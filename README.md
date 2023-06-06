@@ -8,3 +8,12 @@ Run the following command, make sure the path is correct. You also need to chang
 `python -m train --gin_file=configs/llff.gin --logtostderr`  
 
 You can also train your own dataset, as long as it confroms to NeRF data format.  
+
+
+
+Video:
+<br>
+
+https://github.com/CPREgroup/CaSE-NeRF/blob/main/gif/gif.mp4
+
+<br>
