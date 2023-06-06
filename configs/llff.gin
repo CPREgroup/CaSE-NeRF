@@ -1,6 +1,6 @@
 Config.dataset_loader = 'llff'
 Config.data_dir = 'data/dolls/mix31'
-Config.train_dir = 'experiments/test/dolls_all_one31_test'
+Config.train_dir = 'experiments/dolls'
 Config.white_bkgd = False
 Config.randomized = True
 Config.near = 0.
