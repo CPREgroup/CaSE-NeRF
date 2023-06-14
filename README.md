@@ -2,7 +2,7 @@
 
 Perform controlled editing of camera settings in the scene
 
-https://github.com/CPREgroup/CaSE-NeRF/assets/65144944/bb6c5ee0-5184-4f98-aca0-d23b55cd7080
+https://github.com/CPREgroup/CaSE-NeRF/assets/65144944/b7a747be-8f5d-471b-b86a-f5ddb5ae7b15
 
 # Training
 Run the following command, make sure the path is correct.
